@@ -228,4 +228,4 @@ Select Install and you should recieve a "Congratulations" from osTicket
 <br/>
 
 ![Screenshot 2024-09-26 020103](https://github.com/user-attachments/assets/5a45773f-6dec-487f-907f-b23901c8db1b)
-![Screenshot 2024-09-26 020240](https://github.com/user-attachments/a
+![Screenshot 2024-09-26 020240](https://github.com/user-attachments/assets/ad08dafe-fe27-4758-bea5-6d26168610d5)
